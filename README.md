@@ -40,7 +40,11 @@ python ai_chatbot.py
 ## Screenshots
 
 ![Welcome Screen](screenshots/welcome.png)
+
 ![AI Response](screenshots/ai_response.png)
+
 ![Hindi Support](screenshots/hindi.png)
+
 ![PDF Download](screenshots/pdf.png)
+
    
