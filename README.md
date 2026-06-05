@@ -21,16 +21,16 @@ Hindi & English Support | Voice & PDF Download
 - SpeechRecognition
 - fpdf2
 
-## How to Run
+## How to Run:-------------->
 ### 1. Libraries Install Karo:
 pip install groq pyttsx3 SpeechRecognition fpdf2
 
-### 2. API Key Lo:
+### 2. API Key Lo:-------------->
 - https://console.groq.com pe jao
 - Free account banao
-- API key lo
+- API key lo/ API key integrate/Genrate karo.
 
-### 3. Environment Variable Set Karo:
+### 3. Environment Variable Set Karo:-------------->
 # Windows
 set GROQ_API_KEY="teri_api_key_yahan"
 
