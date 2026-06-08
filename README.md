@@ -37,7 +37,7 @@ set GROQ_API_KEY="teri_api_key_yahan"
 ### 4. Run Karo:
 python ai_chatbot.py
 
-## Screenshots:-------------->
+## Screenshots:
 
 ![Welcome Screen](screenshots/welcome.png)
 
