@@ -7,8 +7,8 @@ import datetime
 import json
                                
 from groq import Groq
-import os
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+# import os
+client = Groq(api_key=("GROQ_API_KEY"))
 
 import pyttsx3
 import speech_recognition as sr
