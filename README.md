@@ -25,16 +25,16 @@ Hindi & English Support | Voice & PDF Download
 ### 1. Libraries Install Karo:
 pip install groq pyttsx3 SpeechRecognition fpdf2
 
-### 2. API Key Lo:
+### 2. Take the API Key:
 - https://console.groq.com Go there.
 - Make a free account there
 - Take the API key / integrate the API key / generate it.
   
-### 3. Environment Variable Set Karo:
+### 3. Set the Environment Variable:
 # Windows
-set GROQ_API_KEY="teri_api_key_yahan"
+set GROQ_API_KEY="your_api_key_here"
 
-### 4. Run Karo:
+### 4. Run it:
 python ai_chatbot.py
 
 ## Screenshots:
