@@ -26,10 +26,10 @@ Hindi & English Support | Voice & PDF Download
 pip install groq pyttsx3 SpeechRecognition fpdf2
 
 ### 2. API Key Lo:
-- https://console.groq.com pe jao
-- Free account banao
-- API key lo/ API key integrate/Genrate karo.
-
+- https://console.groq.com Go there.
+- Make a free account there
+- Take the API key / integrate the API key / generate it.
+  
 ### 3. Environment Variable Set Karo:
 # Windows
 set GROQ_API_KEY="teri_api_key_yahan"
