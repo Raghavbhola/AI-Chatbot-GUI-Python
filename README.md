@@ -24,17 +24,20 @@ An AI-powered desktop chatbot built using Python, Tkinter, and the Groq API. The
 ## Installation:
 
 ### 1. Install required libraries:
+
 pip install groq pyttsx3 SpeechRecognition fpdf2
 
 ### 2. Take the API Key:
+
 - Create a free account at: https://console.groq.com
 - Generate an API key and set it as an environment variable.
   
 ### 3. Set the Environment Variable:
-# Windows
+
+## Windows
 set GROQ_API_KEY="your_api_key_here"
 
-# Linux / macOS
+## Linux / macOS
 export GROQ_API_KEY="your_api_key_here"
 
 ### ▶️ Run the Project
