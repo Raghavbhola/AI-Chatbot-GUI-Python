@@ -34,11 +34,11 @@ pip install groq pyttsx3 SpeechRecognition fpdf2
   
 ### 3. Set the Environment Variable:
 
-## Windows
-set GROQ_API_KEY="your_api_key_here"
+# Windows
+- set GROQ_API_KEY="your_api_key_here"
 
-## Linux / macOS
-export GROQ_API_KEY="your_api_key_here"
+# Linux / macOS
+- export GROQ_API_KEY="your_api_key_here"
 
 ### ▶️ Run the Project
 
